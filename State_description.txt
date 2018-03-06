@@ -1,0 +1,5 @@
+Done:
+First step and left most block's computation is correct.
+
+Working:
+First step and left most block writing back.
