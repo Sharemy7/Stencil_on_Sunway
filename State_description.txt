@@ -1,6 +1,15 @@
 Done:
-First step and left most block's computation (lower part) is correct.
+First step block's computation and writing back is correct.
+Odd step block's computation and writing back is correct.
+
+Second step block's computation and writing back is correct.
+Even step block's computation and writing back is correct.
+
 
 Working:
-First step and left most block writing back.
-The right point of lower part writing back is wrong.
+Gflops test.
+SIMD.
+
+Backup:
+    Hybridtiling.c : Origin Hybrid tiling without SIMD.
+
